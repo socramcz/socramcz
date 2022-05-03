@@ -1,19 +1,19 @@
 # Olá, meu nome é Marcos Silva
 
-    Desde criança sou fascinado por computação, tecnologia e pelo futur. Atualmente estou me dedicando para me tornar
+Desde criança sou fascinado por computação, tecnologia e pelo futur. Atualmente estou me dedicando para me tornar
     um desenvolvedor back-end.
 
-    👦🏾 Idade: 19
-    🌎 BA, Brazil
+👦🏾 Idade: 19
+🌎 BA, Brazil
     
    
-    👨🏾‍💻 Atualmente:
-    Estou aprendendo mais sobre programação antes de ingressar no mercado. Cursando Desenvolvimento de Sistemas no SENAI - BA 
+## 👨🏾‍💻 Atualmente:
+Estou aprendendo mais sobre programação antes de ingressar no mercado. Cursando Desenvolvimento de Sistemas no SENAI - BA 
 
-    ⚙ Estudando:
-    HTML5, CSS e PYTHON
+## ⚙ Estudando:
+HTML5, CSS e PYTHON
     
-    🌱 Planos:
+## 🌱 Planos:
     - Me aprimorar nas tecnologias back-end
     - Adquirir mais conhecimento em PYTHON e HTML5
     - Começar a estudar JAVA e Node.js
