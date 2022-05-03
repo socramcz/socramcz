@@ -1,8 +1,8 @@
-=> Nome: Marcos Silva
+# Olá, meu nome é Marcos Silva
 => Idade: 19
 => BA, Brazil
 
-=> Sobre mim:
+=> Sobre mim: \n
     Desde criança sou fascinado por computação, tecnologia, etc, e atualmente estou me dedicando a me tornar um desenvolvedor back-end.
    
 => Atualmente:
