@@ -1,6 +1,7 @@
 # Olá, meu nome é Marcos Silva
-    ### Desde criança sou fascinado por computação, tecnologia, etc, e atualmente estou me dedicando a me tornar um desenvolvedor back-end.
-    
+
+    Desde criança sou fascinado por computação, tecnologia, etc, e atualmente estou me dedicando a me tornar um desenvolvedor back-end.
+
     👦🏾 Idade: 19
     🌎 BA, Brazil
     
