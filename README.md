@@ -10,7 +10,7 @@ Desde criança sou fascinado por computação, tecnologia e pelo futur. Atualmen
 Estou aprendendo mais sobre programação antes de ingressar no mercado. Cursando Desenvolvimento de Sistemas no SENAI - BA 
 
 ### ⚙ Estudando:
-HTML5, CSS e PYTHON
+PYTHON, JAVA, HTML E CSS
     
 ### 🌱 Planos:
    - Me aprimorar nas tecnologias back-end
