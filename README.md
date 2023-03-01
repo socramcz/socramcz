@@ -2,7 +2,7 @@
 
 Desde criança sou fascinado por computação, tecnologia e pelo futur. Atualmente estou me dedicando para me tornarum desenvolvedor back-end.
 
-- 👦🏾 Idade: 19
+- 👦🏾 Idade: 20
 - 🌎 BA, Brazil
     
    
